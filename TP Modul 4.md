@@ -131,10 +131,6 @@ Hero 5: obob
 
 # Note
 File yang dikumpulkan pada TP ini adalah :
-- File .md ```Format penamaan sama seperti zip```
+- File .md ```Format Penamaan TP_ALPROG[NomorModul]_NamaLengkap_NPM.md```
 - File .c (*Nomor 4 b dan c*) ```Format penamaan Nomor4.c```
 - File .c (*Nomor 5*) ```Format penamaan Nomor5.c```
-
-Di ZIP kemudian dikumpulkan dengan format 
-
-```TP_ALPROG[NomorModul]_NamaLengkap_NPM.zip```
